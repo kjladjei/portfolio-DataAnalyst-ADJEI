@@ -83,3 +83,9 @@ Je suis à la recherche d'opportunités professionnelles me permettant de mettre
 <p align="center">
   <i>"Donner du sens aux données pour éclairer les décisions de demain."</i>
 </p>
+
+---
+<p align="center">
+  <i>"Donner du sens aux données pour éclairer les décisions de demain."</i><br>
+  <i>"La vraie valeur de la donnée se trouve au-delà de ce que l'on sait déjà. Explorer de nouveaux modèles et sortir de sa zone de confort est la clé des plus grands insights."</i>
+</p>
