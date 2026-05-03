@@ -34,7 +34,6 @@ J'aime transformer les données brutes en histoires significatives pour aider le
 * **Certificat professionnel Data Analyst** – Liora (Ex Datatscientest)
 * **Formation qualifiante et certifiante** - Ecole Polytechnique Internationale Privée de Tunis
 * **IT Spécailiste IA** Pearson Badge
-* 
 
 ---
 
