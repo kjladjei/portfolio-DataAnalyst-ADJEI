@@ -1,5 +1,5 @@
 # Bonjour, je suis ADJEI Koudjo Jean-Louis 👋
-### Analyste de Données IBM | Excel • SQL • Python
+### Analyste de Données | Excel • Power BI • SQL • Python
 
 Je suis analyste de données certifiée par Liora (ex datascientest) avec une expérience pratique dans l'analyse d'ensembles de données réels, la construction de tableaux de bord interactifs et l'extraction  d'informations exploitables pour soutenir la prise de décision axée sur les données. J'aime transformer les données brutes en histoires significatives pour aider les organisations à comprendre les tendances, à anticiper les risques et à saisir les opportunités.
 
