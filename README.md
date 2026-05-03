@@ -53,6 +53,6 @@ J'aime transformer les données brutes en histoires significatives pour aider le
 ## 📫 Me contacter
 Je suis à la recherche d'opportunités professionnelles me permettant de mettre à profit mes compétences analytiques sur des projets stimulants.
 
-* **Ma page LinkedIn** : [Mon profil professionnel](www.linkedin.com/in/koudjo-adjei-data)
+* **Ma page LinkedIn** : [Mon profil professionnel]()
 * **GitHub** : [Mon portfolio de projets](https://github.com/kjladjei)
 * **Email** : koudjojeanlouis@gmail.com
