@@ -9,6 +9,8 @@ pour soutenir la prise de décision axée sur les données.
 
 J'aime transformer les données brutes en histoires significatives pour aider les organisations à comprendre les tendances, à anticiper les risques et à saisir les opportunités.
 
+
+
 ---
 
 ## 🎯 Ce que je fais
@@ -19,13 +21,23 @@ J'aime transformer les données brutes en histoires significatives pour aider le
 
 ---
 
+
+
 ## 🛠️ Outils et Compétences
 
-* **Bureautique & BI** : Microsoft Excel (Tableaux croisés dynamiques, KPIs, Tableaux de bord interactifs), Power BI.
-* **Bases de données** : SQL (PostgreSQL, requêtes complexes, jointures, agrégations, fonctions windows).
-* **Programmation** : Python (Pandas, Matplotlib, Seaborn, scikit-learn).
-* **Environnements** : Jupyter Notebook, vs-code.
-* **Soft Skills** : Pensée analytique, résolution de problèmes, communication des données.
+* **Langages de programmation** : Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (Requêtes complexes, agrégations, jointures).
+* **Bureautique & BI** : Microsoft Excel (Tableaux de bord avancés, KPIs).
+* **Statistiques & Économétrie** : Statistiques descriptives, modélisations prédictives, mathématiques financières.
+* **Soft Skills** : Autonomie, rigueur scientifique, esprit d'analyse et forte adaptabilité.
+
+
+
+
+---
+
+## 📜 Formations & Cursus
+* **Master 1 Ingenierie Economique et analyse de données - Université de Besançon** 
+* **Formation Data Analyst** – DataScientest
 
 
 ---
@@ -38,7 +50,7 @@ J'aime transformer les données brutes en histoires significatives pour aider le
 ---
 
 ## 📫 Me contacter
-Je recherche activement des opportunités en tant qu'**analyste de données stagiaire** ou **analyste de données junior** pour appliquer mes compétences, grandir professionnellement et contribuer à des projets à fort impact.
+Je suis à la recherche d'opportunités professionnelles me permettant de mettre à profit mes compétences analytiques sur des projets stimulants.
 
 * **LinkedIn** : [Mon Profil LinkedIn](www.linkedin.com/in/koudjo-adjei-data)
 * **GitHub** : [Mon GitHub](https://github.com/kjladjei)
