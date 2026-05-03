@@ -5,7 +5,9 @@
 
 | 💡 À propos de moi | |
 | :--- | :---: |
-| Passionné par la valorisation de la donnée et fort d'un double cursus en ingénierie économique et en Data Analysis, j'aide les entreprises à transformer leurs données brutes en indicateurs stratégiques exploitables. J'allie rigueur d'analyse quantitative et compétences techniques pour construire des solutions d'aide à la décision efficaces. | <img src="photo_id.jpg" width="135" style="border-radius: 50%; border: 3px solid #0077B5;" alt="Koudjo Jean-Louis ADJEI" /> |
+| Passionné par la valorisation de la donnée et fort d'un double cursus en ingénierie économique et en Data Analysis, j'aide les entreprises à transformer leurs données brutes en indicateurs stratégiques exploitables. J'allie rigueur d'analyse quantitative et compétences techniques pour construire des solutions d'aide à la décision efficaces. | <img src="photo_id.jpg" width="190" style="border-radius: 50%; border: 4px solid #0077B5; min-width: 190px;" alt="Koudjo Jean-Louis ADJEI" /> |
+
+---
 
 ---
 
