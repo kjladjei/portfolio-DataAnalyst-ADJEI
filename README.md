@@ -56,4 +56,4 @@ Je suis à la recherche d'opportunités professionnelles me permettant de mettre
 
 * **GitHub** : [Mon portfolio de projets](https://github.com/kjladjei)
 * **Email** : koudjojeanlouis@gmail.com
-* * **Ma page LinkedIn** : [LinkedIn](www.linkedin.com/in/koudjo-adjei-data)
+* **Ma page LinkedIn** : [LinkedIn](https://www.linkedin.com/in/koudjo-adjei-data/)
