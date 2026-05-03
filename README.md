@@ -36,8 +36,8 @@ J'aime transformer les données brutes en histoires significatives pour aider le
 ---
 
 ## 📜 Formations & Cursus
-* **Master 1 Ingenierie Economique et analyse de données - Université de Besançon** 
-* **Formation Data Analyst** – DataScientest
+* **Master 1 Ingenierie Economique et analyse de données - Université de Besançon.** 
+* **Formation Data Analyst– DataScientest.** 
 
 
 ---
