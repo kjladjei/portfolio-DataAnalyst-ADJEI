@@ -39,7 +39,7 @@ Fusion des scores individuels pour créer un **Score RFM Global**. Ce score perm
 
 ## 📊 3. Résultats & Visualisations
 
-> *Ici, insérez idéalement un graphique (ex: Scatter plot Revenu vs Fréquence avec les couleurs des clusters).*
+![Distribution des Clusters](./images/les_segments.png)
 
 ### Distribution des Segments
 
