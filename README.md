@@ -50,9 +50,10 @@
 * **Description** : Réalisation d'un projet d'analyse complet validant mes compétences acquises chez DataScientest/Liora. 
 * **Objectif** : Analyse exploratoire de données (EDA), nettoyage avancé et modélisation pour extraire des enseignements stratégiques.
 
-### 📉 [Analyse Économétrique et Statistique Appliquée](https://github.com/kjladjei)
-> **Technologies** : Python, Statsmodels, Scikit-learn  
-* **Description** : Conception et application de modèles statistiques d'analyse de données et de prédiction pour anticiper les risques d'entreprise.
+### 🛒 [Segmentation Client RFM & K-Means Clustering](./Segmentation_Client_RFM)
+* **Objectif :** Segmenter une base de données clients pour optimiser les stratégies marketing.
+* **Technos :** Python (Pandas, Scikit-Learn, Seaborn).
+* **Résultat :** Identification de 4 segments stratégiques (Champions, Clients à risque, etc.).
 
 ---
 
